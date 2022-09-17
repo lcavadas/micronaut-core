@@ -27,7 +27,7 @@ selenium = "3.141.59"
 smallrye = "5.5.0"
 systemlambda = "1.2.1"
 vertx = "3.9.13"
-wiremock = "2.33.2"
+wiremock = "2.34.0"
 
 #
 # Versions which start with managed- are managed by Micronaut in the sense
